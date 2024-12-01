@@ -1,0 +1,73 @@
+Home Builder Blinds Interface
+
+www.homebuilderblinds.com
+
+A web-based application designed to streamline operations for managing blind cutting, inventory, and order workflows. The system simplifies processes for installers, warehouse staff, and clients, offering a user-friendly interface with powerful tools for day-to-day tasks.
+Features
+🚀 Dashboard
+
+    Centralized navigation hub for quick access to all features.
+
+📝 Work Orders
+
+    Create and manage detailed work orders with client and property information.
+    Add dynamic line items with stock checks and auto-calculated totals.
+    Download work orders as PDFs for sharing or printing.
+
+📦 Pick Sheets
+
+    Generate pick sheets for efficient warehouse operations.
+    Upload work orders for tracking and fulfillment.
+    Print or download pick sheets.
+
+✂️ Cutting Interface
+
+    Calculate Blind Cuts: Automatically compute precise cut parameters based on input dimensions.
+    CNC Machine Integration: Seamlessly send calculated cut parameters to a connected CNC machine via servo motor control.
+    Real-Time Adjustments: Ensure accurate and efficient blind cutting by synchronizing the interface with hardware operations.
+    User-Friendly Design: Operators can easily input measurements and receive cutting instructions without additional complexity.
+
+📋 Inventory Management
+
+    Upload, edit, and save inventory from spreadsheet files.
+    Export and import backups for secure data handling.
+    Track product dimensions, quantities, and locations.
+
+👥 Client Portal
+
+    Allow clients to place orders with detailed measurements and product options.
+    Real-time stock availability checks.
+
+🛒 Will Call Orders
+
+    Manage and track orders ready for pickup.
+    Download or email will-call lists to suppliers.
+
+Technologies Used
+
+    Frontend: HTML5, CSS3 (Custom Variables), JavaScript
+    Libraries: XLSX.js for spreadsheet handling
+    UI Design: Modern blue-and-gold aesthetic with responsive styling
+
+Getting Started
+Prerequisites
+
+    A modern web browser (Google Chrome, Firefox, etc.)
+
+Usage
+
+    Navigate through the tabs to create work orders, manage inventory, and process orders.
+    Customize the codebase (script.js and styles.css) as needed.
+
+Planned Enhancements
+
+    Backend integration for database connectivity.
+    User authentication with role-based access.
+    Notifications via email and SMS.
+    Enhanced reporting and analytics features.
+
+Contributors
+
+    Michael W. Gumfory
+    Email: Mike@homebuilderblinds.com
+
