@@ -45,9 +45,23 @@ Features
 
 Technologies Used
 
-    Frontend: HTML5, CSS3 (Custom Variables), JavaScript
-    Libraries: XLSX.js for spreadsheet handling
-    UI Design: Modern blue-and-gold aesthetic with responsive styling
+Frontend Development
+
+HTML5, CSS3 (Custom Variables, Flexbox/Grid), JavaScript (ES6+)
+Libraries: XLSX.js for advanced spreadsheet handling and data manipulation
+UI Design: Modern blue-and-gold aesthetic with responsive design patterns
+
+Industrial Automation
+
+Arduino/C++ for CNC machine control
+FANUC TP Programming for warehouse robotics and automation workflows
+Modbus TCP/IP and Ethernet/IP for industrial communication protocols
+
+Integration & Architecture
+
+Real-time machine monitoring using WebSocket connections
+Custom middleware for industrial equipment data processing
+Automated safety systems with redundant error handling
 
 Getting Started
 Prerequisites
